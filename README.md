@@ -38,3 +38,12 @@ pwd
 dotnet run Program.cs  
 ```
 
+## Ressources 
+
+![COnsignes](.github/sujet.png)
+
+![First Menu](.github/miniTel.png)
+
+![Contact Menu](.github/contact.png)
+
+![Todo Menu](.github/todo.png)
